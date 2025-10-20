@@ -1,0 +1,4 @@
+repository "Endless Runner@tj_xinxinxin_1105@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
